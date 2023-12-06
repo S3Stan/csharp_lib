@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 public class Solution {
     public int TotalMoney(int n) {
         
@@ -29,7 +28,6 @@ class Program {
         Console.WriteLine($"Total Money: {result}");
     }
 }
-
 
 // Hercy wants to save money for his first car. He puts money in the Leetcode bank every day.
 

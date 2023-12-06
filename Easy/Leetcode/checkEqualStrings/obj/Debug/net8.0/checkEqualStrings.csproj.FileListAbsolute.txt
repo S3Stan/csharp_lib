@@ -1,0 +1,15 @@
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.AssemblyInfoInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.AssemblyInfo.cs
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.csproj.CoreCompileInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.sourcelink.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\bin\Debug\net8.0\checkEqualStrings.exe
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\bin\Debug\net8.0\checkEqualStrings.deps.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\bin\Debug\net8.0\checkEqualStrings.runtimeconfig.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\bin\Debug\net8.0\checkEqualStrings.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\bin\Debug\net8.0\checkEqualStrings.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\refint\checkEqualStrings.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\checkEqualStrings.genruntimeconfig.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\checkEqualStrings\obj\Debug\net8.0\ref\checkEqualStrings.dll
