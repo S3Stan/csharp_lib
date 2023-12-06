@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOKzSuOvukts7w7VZQgah6MHWgefnc1GDbMS9+fuE5K3R9S67Zp86tKv0QQB8wuY/PJajzzMXwlNGNkWisiyGA==",
+  "dgSpecHash": "Arhx+WiKMpZVRVwpY76mCC9MyrkVAslh7l6UPthrNaro64PEyUnIwZTfw9r8EO5HwMJMs2/jQs0iFoerDawoLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
+  "projectFilePath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

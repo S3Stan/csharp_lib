@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj": {}
+    "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj": {
+    "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
+        "projectUniqueName": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
         "projectName": "BasicMIBApp",
-        "projectPath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
+        "projectPath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\BasicMIBApp.csproj",
         "packagesPath": "C:\\Users\\stanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\Easy\\Leetcode\\BasicMIBApp\\obj\\",
+        "outputPath": "C:\\Users\\stanf\\OneDrive\\Documents\\Projects\\C#\\csharp_lib\\Easy\\Leetcode\\BasicMIBApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stanf\\AppData\\Roaming\\NuGet\\NuGet.Config"
