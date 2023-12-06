@@ -1,0 +1,14 @@
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\bin\Debug\net8.0\BasicMIBApp.exe
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\bin\Debug\net8.0\BasicMIBApp.deps.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\bin\Debug\net8.0\BasicMIBApp.runtimeconfig.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\bin\Debug\net8.0\BasicMIBApp.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\bin\Debug\net8.0\BasicMIBApp.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.AssemblyInfoInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.AssemblyInfo.cs
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.csproj.CoreCompileInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\refint\BasicMIBApp.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\BasicMIBApp.genruntimeconfig.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\Easy\Leetcode\BasicMIBApp\obj\Debug\net8.0\ref\BasicMIBApp.dll
