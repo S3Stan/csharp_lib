@@ -1,0 +1,15 @@
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\bin\Debug\net8.0\wordGeneratorStringArray.exe
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\bin\Debug\net8.0\wordGeneratorStringArray.deps.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\bin\Debug\net8.0\wordGeneratorStringArray.runtimeconfig.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\bin\Debug\net8.0\wordGeneratorStringArray.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\bin\Debug\net8.0\wordGeneratorStringArray.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.AssemblyInfoInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.AssemblyInfo.cs
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.csproj.CoreCompileInputs.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.sourcelink.json
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\refint\wordGeneratorStringArray.dll
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.pdb
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\wordGeneratorStringArray.genruntimeconfig.cache
+C:\Users\stanf\OneDrive\Documents\Projects\C#\csharp_lib\Easy\Leetcode\wordGeneratorStringArray\obj\Debug\net8.0\ref\wordGeneratorStringArray.dll

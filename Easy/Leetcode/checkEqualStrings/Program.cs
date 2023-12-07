@@ -42,7 +42,7 @@ class Program {
     static void Main() {
 
         //temp array
-        string[] word1_string = new string[] {"ab", "c"};
+        string[] word1_string = new string[] {"ab", "cd"};
         string[] word2_string = new string[] {"a", "bcd"};
         
         // temp array
